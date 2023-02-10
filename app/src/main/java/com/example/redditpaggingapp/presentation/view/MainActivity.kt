@@ -1,8 +1,8 @@
-package com.example.redditpaggingapp
+package com.example.redditpaggingapp.presentation.view
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.redditpaggingapp.ui.main.MainFragment
+import androidx.appcompat.app.AppCompatActivity
+import com.example.redditpaggingapp.R
 
 class MainActivity : AppCompatActivity() {
 
